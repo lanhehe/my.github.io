@@ -1,0 +1,30 @@
+body {
+  background-color: white;
+  text-align:center;
+  
+}
+#imglogo{
+  width:900px;
+  height:auto;
+}
+.msg{
+  width:auto;
+  height:auto;
+  margin:0 auto;
+  text-align:center;
+}
+.container-fluid{
+  width:auto;
+  height:auto;
+}
+.container{
+  width:auto;
+  height:auto;
+  background-color:#D8D8D8;
+}
+#whole{
+  Font-size:40px;
+}
+ul li{
+  color:red;
+}
